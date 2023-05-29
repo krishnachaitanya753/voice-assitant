@@ -1,0 +1,14 @@
+streamlit_chat
+streamlit
+openai 
+playsound
+SpeechRecognition
+gTTs
+requests
+pywhatkit 
+datetime
+os
+pyautogui
+webbrowser
+keyboard
+time 
